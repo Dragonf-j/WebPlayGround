@@ -1,2 +1,2 @@
 # WebPlayGround
- WEb de practica para el curso de Django
+ Web de practica para el curso de Django
